@@ -1,25 +1,38 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
 
-function App() {
+
+
+import ClzContext from './component/Home/clzContext';
+
+import ClzName from './component/Home/clzName';
+
+const App = () => {
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    <>
+    <div  >
+    {/* <div className="box3"> <spna><a href="http://localhost:3000/">Home</a></spna></div> */}
+      <ClzName />
+      
+<div className="center" >
+      <style>{'body { background-color: #FFFFF0; }'}</style>
+    
+    
+   <ClzContext />
+    
+      </div>
+      </div>
+  </>
+     
+    
+    
+    );
+  };
+    
+    
+ 
+
+
 
 export default App;

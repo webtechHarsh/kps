@@ -1,0 +1,138 @@
+.imgs {
+    float: right;
+    width: 600px;
+    height: 400px;
+    margin-right: 50px; 
+    margin-left: 100px;
+    margin-top: 15px;
+
+}
+
+.imgslogo {
+    float: left;
+    width: 250px;
+    height: 250px;
+    margin-right: 50px; 
+    margin-left: 150px;
+    margin-top: 2px;
+
+
+
+}
+
+.imgs2 {
+    float: left;
+    width: 20px;
+    height: 20px;
+    /* margin-right: 50px; 
+    margin-left: 100px;
+    margin-top: 15px; */
+
+}
+
+h1{
+    /* color: #FFA07A; */
+    color: #A52A2A;
+    font-family: 'Eczar', serif;
+    margin-right: 115px;
+
+   
+    font-size: 65px;
+}
+
+
+h2{
+    /* color: #FFA07A; */
+    color: black;
+    font-size: 35px;
+    /* font-family: 'Lora', serif; */
+
+    
+}
+
+
+h5{
+    /* color: #FFA07A; */
+    color: #00000080;
+    font-size: 35px;
+}
+
+h6{
+    /* color: #FFA07A; */
+    color: #e90e0e80;
+    font-size: 25px;
+}
+h4{
+    /* font-size: 25px; */
+}
+
+h3{
+    font-family: 'Koh Santepheap', cursive;
+}
+
+.button {
+    /* background:#E9967A; */
+    background-color: lightsalmon;
+    border-radius: 30px;
+    color: white;
+    padding: 8px 30px;
+    /* text-align: center; */
+    /* text-decoration: none; */
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px 0;
+    transition: background 0.5s;
+  }
+.button:hover{
+    background: black;
+}
+  /* .button5 {border-radius: 30%;} */
+
+ 
+.center {
+    margin: auto;
+    /* margin-left: 10%;
+    margin-right: 10%; */
+    width: 90%;
+    /* border: 5px solid; */
+    padding: 10px;    }
+   
+
+    .box {
+        /* width: 350px;
+        height: 150px; */
+        /* margin-left: 80px; */
+        margin-right: 80px;
+        /* margin: 10px; */
+        padding: 15px;
+        border: 5px solid black;
+        /* background-color: blanchedalmond; */
+        /* background: radial-gradient(rgb(247, 215, 170),white); */
+        /* background: #FFEBCF; */
+        
+      }
+
+      
+    .box2 {
+        /* width: 350px; */
+        height: 30px; 
+        margin: 50px;
+        padding: 25px;
+        /* border: 5px solid black; */
+        /* background-color: cornflowerblue; */
+      }
+
+      .box3 {
+        /* width: 350px;
+        height: 30px;  */
+        margin: 10x;
+        padding: 25px;
+        border: 5px solid black;
+        background-color: cornflowerblue;
+      }
+
+      .bc :hover{
+background-color: blanchedalmond;
+      }
+
+  
