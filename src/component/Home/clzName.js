@@ -9,7 +9,7 @@ const ClzName = () => {
     <div className="box">
        <img className="imgslogo" src="./Images/logo.jpg" alt="" />
        
-       <div  style={{textAlign: "center", marginBottom: "7%"}}><h1>कमला</h1>
+       <div  style={{textAlign: "center", marginBottom: "7%"}}><h1>कमला प्रशिक्षण संस्थान</h1>
        </div>
 
 
