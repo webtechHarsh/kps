@@ -108,11 +108,11 @@ The Quality policy of the कमला प्रशिक्षण संस्�
                 <h3>Contact us 👇</h3>
                 <h3>
                  <p> <img className="imgs2" src="./Images/email.jpg" alt="" /> piyushkant8383@gmail.com</p>
-                 <p> <img className="imgs2" src="./Images/callinglogo.png" alt="" /> 9616104040 </p>
+                 <p> <img className="imgs2" src="./Images/Callinglogo.png" alt="" /> 9616104040 </p>
                 
                 </h3>
             </div>
-            <div><a href="/"> <h3 style={{textAlign: "right" , marginRight: "10%"}}>Go To Top</h3></a></div> 
+            <div><a href="http://webtechHarsh.github.io/kps.git"> <h3 style={{textAlign: "right" , marginRight: "10%"}}>Go To Top</h3></a></div> 
             <div className="box2"></div>
 
         </div>
