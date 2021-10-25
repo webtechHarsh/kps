@@ -112,7 +112,7 @@ The Quality policy of the कमला प्रशिक्षण संस्�
                 
                 </h3>
             </div>
-            <div><a href="https://webtechHarsh.github.io/kps"> <h3 style={{textAlign: "right" , marginRight: "10%"}}>Go To Top</h3></a></div> 
+            <div><a href="https://kpsorg.in"> <h3 style={{textAlign: "right" , marginRight: "10%"}}>Go To Top</h3></a></div> 
             <div className="box2"></div>
 
         </div>

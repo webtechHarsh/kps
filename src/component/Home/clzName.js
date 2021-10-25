@@ -5,7 +5,7 @@ import "./Style.css"
 const ClzName = () => {
    return(
        <>
-    <div style={{textAlign:"right",  marginRight: "10%" }}><a  href="https://webtechHarsh.github.io/kps">Home</a></div> 
+    <div style={{textAlign:"right",  marginRight: "10%" }}><a  href="https://kpsorg.in">Home</a></div> 
     <div className="box">
        <img className="imgslogo" src="./Images/logo.jpg" alt="" />
        
