@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kps.git/static/css/main.ceb48684.chunk.css",
+    "main.js": "/kps.git/static/js/main.ba9eab80.chunk.js",
+    "main.js.map": "/kps.git/static/js/main.ba9eab80.chunk.js.map",
+    "runtime-main.js": "/kps.git/static/js/runtime-main.50354be3.js",
+    "runtime-main.js.map": "/kps.git/static/js/runtime-main.50354be3.js.map",
+    "static/js/2.3ab9ce42.chunk.js": "/kps.git/static/js/2.3ab9ce42.chunk.js",
+    "static/js/2.3ab9ce42.chunk.js.map": "/kps.git/static/js/2.3ab9ce42.chunk.js.map",
+    "index.html": "/kps.git/index.html",
+    "static/css/main.ceb48684.chunk.css.map": "/kps.git/static/css/main.ceb48684.chunk.css.map",
+    "static/js/2.3ab9ce42.chunk.js.LICENSE.txt": "/kps.git/static/js/2.3ab9ce42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50354be3.js",
+    "static/js/2.3ab9ce42.chunk.js",
+    "static/css/main.ceb48684.chunk.css",
+    "static/js/main.ba9eab80.chunk.js"
+  ]
+}
