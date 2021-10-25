@@ -112,7 +112,7 @@ The Quality policy of the कमला प्रशिक्षण संस्�
                 
                 </h3>
             </div>
-            <div><a href="http://webtechHarsh.github.io/kps.git"> <h3 style={{textAlign: "right" , marginRight: "10%"}}>Go To Top</h3></a></div> 
+            <div><a href="https://www.google.com/search?q=googiehost+free+domain&rlz=1C1GCEB_enIN969IN970&oq=goo&aqs=chrome.0.69i59l2j69i57j69i60l5.5742j0j1&sourceid=chrome&ie=UTF-8"> <h3 style={{textAlign: "right" , marginRight: "10%"}}>Go To Top</h3></a></div> 
             <div className="box2"></div>
 
         </div>
